@@ -14,7 +14,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [Javascript](https://www.javascript.com/)
 - [TailwCSS](https://tailwindcss.com/)
-- [Axios]
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 ![](https://github.com/huri3l/videoteca/blob/main/images/homepage_novideo.png)
 ![](https://github.com/huri3l/videoteca/blob/main/images/modal.png)
